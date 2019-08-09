@@ -13,10 +13,8 @@
     - Naivgate to this location and execute : ``` sqlite3 Cookies```
     - Enter ".help" for usage hints
 
-
-
-
-1. <b></b>
+1. <b>List Schema/Tables</b>
+     -```.tables```
 1. <b></b>
 1. <b></b>
 1. <b></b>
