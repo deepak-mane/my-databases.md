@@ -15,11 +15,7 @@
 
 1. <b>List Schema/Tables</b>
      -```.tables```
-1. <b></b>
-1. <b></b>
-1. <b></b>
-1. <b></b>
-1. <b>How to get a list of column names on sqlite3?</b>
+1. <b>How to get a list of column names on one of table from sqlite3?</b>
 ```
 sqlite> PRAGMA table_info(cookies);
 0|creation_utc|INTEGER|1||0
@@ -38,3 +34,7 @@ sqlite> PRAGMA table_info(cookies);
 13|samesite|INTEGER|1|-1|0
 sqlite>
 ```
+1. <b></b>
+1. <b></b>
+1. <b></b>
+1. <b></b>
