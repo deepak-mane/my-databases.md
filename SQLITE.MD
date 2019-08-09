@@ -3,15 +3,15 @@
 ##
 1. <b>Connect to sample sqlite database file</b>
 
-Lets work with sqlite database file already present on everyones computer "Cookies"
-- Default location of Cookies on Operating system as below:
-```
-Window : C:\Users\%USERNAME%\AppData\Local\Google\Chrome\User Data\Default\Cookies
-Linux :
-MOSx :
-```
-- Naivgate to this location and execute : ``` sqlite3 Cookies```
-- Enter ".help" for usage hints
+    Lets work with sqlite database file already present on everyones computer "Cookies"
+    - Default location of Cookies on Operating system as below:
+    ```
+    Window : C:\Users\%USERNAME%\AppData\Local\Google\Chrome\User Data\Default\Cookies
+    Linux :
+    MOSx :
+    ```
+    - Naivgate to this location and execute : ``` sqlite3 Cookies```
+    - Enter ".help" for usage hints
 
 
 
