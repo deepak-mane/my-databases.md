@@ -1,7 +1,7 @@
 # Sqlite3
 
 ##
-1. <>Connect to sample sqlite database file</b>
+1. <b>Connect to sample sqlite database file</b>
 
 Lets work with sqlite database file already present on everyones computer "Cookies"
 - Default location of Cookies on Operating system as below:
@@ -16,11 +16,11 @@ MOSx :
 
 
 
-1. <></b>
-1. <></b>
-1. <></b>
-1. <></b>
-1. <></b>
+1. <b></b>
+1. <b></b>
+1. <b></b>
+1. <b></b>
+1. <b></b>
 1. <b>How to get a list of column names on sqlite3?</b>
 ```
 sqlite> PRAGMA table_info(cookies);
